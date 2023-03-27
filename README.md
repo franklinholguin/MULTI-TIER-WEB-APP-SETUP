@@ -1,15 +1,36 @@
-# Prerequisites
-#
+## PROJECT DESCRIPTION 
+
+Multi tier web aplication stack, this is a base line for diferent project implemented in my porfolio, 
+this project bring to me a open view of diferent tecnologies esential for deploy in AWS and Refactorin and containezined aplications, this project essentially allow me understand and setup my locally lab for Devops Projects.
+
+
+## WHAT I LEARN 
+
+- NGINIX: Load Balancer
+- TOMCAP: Servlet container for Java code
+- RABBITTMQ: Send and receive messages between platform 
+- MEMCACHED
+- MYSQL
+- Oraclre Virtul Box
+- Vagrant
+- Visual Studio code
+
+
+
+## PREREQUISITES
+
 - JDK 1.8 or later
 - Maven 3 or later
 - MySQL 5.6 or later
 
-# Technologies 
+## TECHNOLOGIES
 - Spring MVC
 - Spring Security
 - Spring Data JPA
 - Maven
 - JSP
-- MySQL
+
+
+
 
 
